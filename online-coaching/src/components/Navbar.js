@@ -35,7 +35,7 @@ function NavBar() {
     >
       <Container style={{maxWidth: '1200px', width: '100%'}}>
         <Navbar.Brand href="/" className="d-flex">
-          Nathan Liu Fitness
+          Nathan Liu Training
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -99,7 +99,7 @@ function NavBar() {
                 as={Link}
                 to="/application"
                 target="_blank"
-                className="fork-btn-inner"
+                className="apply-now-button"
                 onClick={() => updateExpanded(false)}
               >
                 Apply Now!
