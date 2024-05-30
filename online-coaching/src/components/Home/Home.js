@@ -44,9 +44,12 @@ function Home() {
               />
             </Col>
           </Row>
+
+          <br></br>
+
           <Row>
-            <h2 className="heading"> What I offer:</h2>
-            <ul className="list">
+            <h2 style={{ paddingLeft: 60 }}> What I offer:</h2>
+            <ul className="list" style={{ paddingRight: 60 }}>
               <li>Personalized training plans designed specifically for your fitness level and goals</li>
               <li>Weekly online check-ins to keep yourself accountable and motivated</li>
               <li>Strength training and coaching to fix postural imbalances and hit PRs!</li>
