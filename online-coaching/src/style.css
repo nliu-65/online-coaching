@@ -224,16 +224,16 @@ html {
 /* --------- */
 
 .about-section {
-  position: relative !important;
-  padding-top: 150px !important;
-  padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
-  color: white !important;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 30px;
+  background-image: var(--section-background-color);
+  color: white;
 }
 
 @media (max-width: 767px) {
   .about-img {
-    padding-top: 0 !important;
+    padding-top: 0;
   }
 }
 
@@ -245,22 +245,22 @@ html {
 /* Plans */
 /* --------- */
 .plan-section {
-  position: relative !important;
-  padding-top: 150px !important;
-  padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 30px;
+  background-image: var(--section-background-color);
 }
 
 .plan-card {
-  padding-top: 50px !important;
-  padding-bottom: 50px !important;
-  padding-left: 25px !important;
-  padding-right: 25px !important;
-  height: auto !important;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: auto;
 }
 
 .plan-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(249, 247, 250, 0.459) !important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -268,9 +268,9 @@ html {
   height: 100% !important;
 }
 .plan-card-view:hover {
-  transform: scale(1.02) !important;
-  overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  transform: scale(1.02);
+  overflow: hidden;
+  box-shadow: 0 4px 4px 5px rgba(249, 248, 249, 0.561);
 }
 
 .btn-primary {
@@ -284,16 +284,17 @@ html {
   background-color: #060536d7 !important;
   border-color: #000000d7 !important;
 }
+
 .btn:focus {
-  outline: none !important;
-  box-shadow: none !important;
+  outline: none;
+  box-shadow: none;
 }
 
 .plan-heading {
-  color: white !important;
-  font-size: 2.3em !important;
-  font-weight: 500 !important;
-  padding-top: 10px !important;
+  color: white;
+  font-size: 2.3em;
+  font-weight: 500;
+  padding-top: 10px;
 }
 
 /* --------- */
@@ -301,33 +302,33 @@ html {
 /* --------- */
 
 .testimonials-section {
-  position: relative !important;
-  padding-top: 110px !important;
-  padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
-  color: white !important;
+  position: relative;
+  padding-top: 110px;
+  padding-bottom: 30px;
+  background-image: var(--section-background-color);
+  color: white;
 }
 
 .testimonials-card {
-  padding-top: 50px !important;
-  padding-bottom: 50px !important;
-  padding-left: 50px !important;
-  padding-right: 50px !important;
-  height: auto !important;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: auto;
 }
 
 .testimonials-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(245, 242, 245, 0.459) !important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
-  transition: all 0.5s ease 0s !important;
+  transition: all 0.5s ease 0s;
   height: 100% !important;
 }
 .testimonials-card-view:hover {
-  transform: scale(1.02) !important;
-  overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  transform: scale(1.02);
+  overflow: hidden;
+  box-shadow: 0 4px 4px 5px rgba(243, 241, 244, 0.561);
 }
 
 .testimonials {
@@ -351,39 +352,39 @@ html {
 /* --------- */
 .footer {
   background-color: #020112a9;
-  bottom: 0 !important;
-  padding-top: 10px !important;
-  padding-bottom: 8px !important ;
+  bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 8px ;
 }
 .footer-copywrite {
-  text-align: center !important;
+  text-align: center;
   color: white;
 }
 
 .footer-body {
   z-index: 1;
-  text-align: center !important;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
   .footer-copywrite {
-    text-align: center !important;
+    text-align: center;
   }
 
   .footer-body {
-    text-align: center !important;
+    text-align: center;
   }
 }
 
 .footer h3 {
   font-size: 1em;
-  color: white !important;
-  margin-top: 0.5em !important;
-  margin-bottom: 0.5em !important;
+  color: white;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 .footer-icons {
-  margin-top: 0.5em !important;
-  margin-bottom: 0.5em !important;
-  padding: 0 !important;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding: 0;
   font-size: 30px;
 }
