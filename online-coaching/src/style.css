@@ -5,12 +5,6 @@ html {
     rgba(2, 1, 18, 0.9)
   );
 
-  --image-gradient: linear-gradient(
-    to bottom left,
-    rgba(88, 116, 255, 0.5),
-    rgba(2, 1, 18, 0.9)
-  );
-
   --imp-text-color: #f9f8f9;
 
   overflow-x: hidden; /* Prevent horizontal scroll on the whole page */
@@ -593,8 +587,9 @@ html {
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
 }
-.footer-copywright {
+.footer-copywrite {
   text-align: center !important;
+  color: white;
 }
 
 .footer-body {
@@ -603,7 +598,7 @@ html {
 }
 
 @media (max-width: 767px) {
-  .footer-copywright {
+  .footer-copywrite {
     text-align: center !important;
   }
 

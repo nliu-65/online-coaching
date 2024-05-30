@@ -15,7 +15,8 @@ function Testimonials() {
   return (
     <div>
       <Container fluid className="testimonials-section">
-        <Row className="testimonials-card">
+        <Row>
+        <Col md="6" className="testimonials-card">
           <Card className="testimonials-card-view">
             <Card.Body>
               <Card.Title>Matthew Suyetani</Card.Title>
@@ -31,9 +32,9 @@ function Testimonials() {
               </Row>
             </Card.Body>
           </Card>
-        </Row>
+        </Col>
 
-        <Row className="testimonials-card">
+        <Col md="6" className="testimonials-card">
           <Card className="testimonials-card-view">
             <Card.Body>
               <Card.Title>Matthew Vu</Card.Title>
@@ -43,15 +44,15 @@ function Testimonials() {
                     I've know Nate for the past three years and I have always had a blast training with him. Just recently, he trained me for my first powerlifting meet. He helped me lose 10 pounds, but also set PRs in deadlift and squat. Nate is that dude.
                   </Card.Text>
                 </Col>
-                <Col md="4">
+                <Col md="6">
                   <img src={mattvu} alt="about" className="img-fluid" />
                 </Col>
               </Row>
             </Card.Body>
           </Card>
-        </Row>
+        </Col>
 
-        <Row className="testimonials-card">
+        {/* <Row className="testimonials-card">
           <Card className="testimonials-card-view">
             <Card.Body>
               <Card.Title>Joshua Lopez</Card.Title>
@@ -60,6 +61,7 @@ function Testimonials() {
               </Card.Text>
             </Card.Body>
           </Card>
+        </Row> */}
         </Row>
         
       </Container>
