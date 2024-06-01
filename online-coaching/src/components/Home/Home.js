@@ -15,7 +15,7 @@ function Home() {
               </h1>
 
               <h3 className="heading-name">
-                Helping people maximize their potentials and live stronger and healthier lives
+                Helping people live stronger and healthier lives everyday
               </h3>
 
               <h3 className="heading-name">
@@ -48,11 +48,11 @@ function Home() {
           <br></br>
 
           <Row>
-            <h2 style={{ paddingLeft: 60 }}> What I offer:</h2>
+            <h2 style={{ paddingLeft: 60 }}> What are you looking for?</h2>
             <ul className="list" style={{ paddingRight: 60 }}>
-              <li>Personalized training plans designed specifically for your fitness level and goals</li>
-              <li>Weekly online check-ins to keep yourself accountable and motivated</li>
-              <li>Strength training and coaching to fix postural imbalances and hit PRs!</li>
+              <li>Personalized training programs to build muscle mass and lose fat</li>
+              <li>Strength training to maximize your potential and hit new PRs</li>
+              <li>Corrective exercises to fix postural imbalances and general tightness</li>
             </ul>
           </Row>
           

@@ -49,7 +49,7 @@ function About() {
             <ul className="left">
               <li>NASM Certified Personal Trainer</li>
               <li>ASTI CPR/AED Certification</li>
-              <li>NASM Weight Loss Reduction (in progress)</li>
+              <li>NASM Weight Loss Specialist (in progress)</li>
               <li>NASM Certified Nutrition Coach (in progress)</li>
               <li>NASM Metabolic Makeover (in progress)</li>
             </ul>
