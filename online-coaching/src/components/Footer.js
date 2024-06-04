@@ -17,7 +17,7 @@ function Footer() {
         <Col md="4" className="footer-copywrite">
           <div>Email: nathanliu.training@gmail.com</div>
           <div>Phone: 408-985-2868</div>
-          <h3>Copyright © {year} Nathan Liu</h3>
+          {/* <h3>Copyright © {year} Nathan Liu</h3> */}
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

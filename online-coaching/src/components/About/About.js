@@ -35,10 +35,11 @@ function About() {
                Many of my friends and family have reached out to me about fitness advice, and their feelings of achievement encouraged me to pursue personal training. 
                As a result, I worked towards getting my Certification for Personal Training with NASM to understand the field on a deeper level. 
             </p>
-
             <p>
                Through my experiences, I quickly realized that personal training is personalized for a reason; you can't prescribe a cookie cutter plan from the internet for just anyone.
                I write my clients optimized plans completely based off of their goals and needs so that they can enjoy the little things in life, like watching TV or eating their favorite snacks.
+            </p>
+            <p>
                Working out and getting stronger doesn't always have to suck. I am a huge advocate for enjoying what you do while also reaping the full benefits of living a healthy lifestyle.
                If you want to work with me, I can help you transform your life one set a time, one rep at a time. <GiStrong/>
             </p>

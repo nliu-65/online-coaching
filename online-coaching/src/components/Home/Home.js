@@ -48,7 +48,7 @@ function Home() {
           <br></br>
 
           <Row>
-            <h2 style={{ paddingLeft: 60 }}> What are you looking for?</h2>
+            <h2 style={{ paddingLeft: 60 }}> What I'm about</h2>
             <ul className="list" style={{ paddingRight: 60 }}>
               <li>Personalized training programs to build muscle mass and lose fat</li>
               <li>Strength training to maximize your potential and hit new PRs</li>
