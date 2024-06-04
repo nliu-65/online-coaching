@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nliu-65/online-coaching/static/css/main.14e57d09.css",
+    "main.js": "/nliu-65/online-coaching/static/js/main.05b0b000.js",
+    "static/js/453.1407b060.chunk.js": "/nliu-65/online-coaching/static/js/453.1407b060.chunk.js",
+    "static/media/powerlifting.jpg": "/nliu-65/online-coaching/static/media/powerlifting.e6849c0e0f3f6ef6e824.jpg",
+    "static/media/profpic.jpg": "/nliu-65/online-coaching/static/media/profpic.9e6929c2573a91b44228.jpg",
+    "static/media/mattsuyetani.jpg": "/nliu-65/online-coaching/static/media/mattsuyetani.501e4f19c053b4632e01.jpg",
+    "static/media/mattvu.jpg": "/nliu-65/online-coaching/static/media/mattvu.b5ce70652fd1a94ae817.jpg",
+    "index.html": "/nliu-65/online-coaching/index.html",
+    "main.14e57d09.css.map": "/nliu-65/online-coaching/static/css/main.14e57d09.css.map",
+    "main.05b0b000.js.map": "/nliu-65/online-coaching/static/js/main.05b0b000.js.map",
+    "453.1407b060.chunk.js.map": "/nliu-65/online-coaching/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e57d09.css",
+    "static/js/main.05b0b000.js"
+  ]
+}
