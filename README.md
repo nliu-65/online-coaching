@@ -1,3 +1,3 @@
-# online-coaching
+# Nathan Liu Fitness
 
-this is a test from github
+https://nathan-liu-fitness.vercel.app/
