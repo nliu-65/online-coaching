@@ -98,7 +98,6 @@ function NavBar() {
               <Button
                 as={Link}
                 to="/application"
-                target="_blank"
                 className="apply-now-button"
                 onClick={() => updateExpanded(false)}
               >
