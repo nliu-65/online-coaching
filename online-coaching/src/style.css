@@ -5,7 +5,7 @@ html {
     rgba(2, 1, 18, 0.9)
   );
 
-  overflow-x: hidden; /* Prevent horizontal scroll on the whole page */
+  /* overflow-x: hidden; */
 }
 
 /* --------- */
@@ -177,6 +177,8 @@ html {
   position: relative; 
   z-index: 1;
   background-image: var(--section-background-color);
+  background-position: top center;
+  background-repeat: no-repeat;
   padding-bottom: 30px;
   padding-top: 30px;
 }
@@ -200,6 +202,13 @@ html {
 .picture {
   margin-top: 50px;
   padding-left: 50px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .list {
@@ -356,7 +365,7 @@ html {
   padding-top: 10px;
   padding-bottom: 8px ;
 }
-.footer-copywrite {
+.footer-copyright {
   text-align: center;
   color: white;
 }
@@ -367,7 +376,7 @@ html {
 }
 
 @media (max-width: 767px) {
-  .footer-copywrite {
+  .footer-copyright {
     text-align: center;
   }
 

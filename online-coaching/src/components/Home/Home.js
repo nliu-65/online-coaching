@@ -9,7 +9,7 @@ function Home() {
       <Container fluid className="home-section">
         <Container className="home-content">
           <Row>
-            <Col md={7} className="home-header">
+            <Col md={7} className="home-header" id="home">
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Nathan Liu
               </h1>

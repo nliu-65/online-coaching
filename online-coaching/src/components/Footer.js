@@ -11,10 +11,10 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywrite" style={{paddingTop: 30}}>
+        <Col md="4" className="footer-copyright" style={{paddingTop: 30}}>
           Nathan Liu Training
         </Col>
-        <Col md="4" className="footer-copywrite">
+        <Col md="4" className="footer-copyright">
           <div>Email: nathanliu.training@gmail.com</div>
           <div>Phone: 408-985-2868</div>
           {/* <h3>Copyright © {year} Nathan Liu</h3> */}
