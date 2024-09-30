@@ -340,6 +340,11 @@ img {
   box-shadow: 0 4px 4px 5px rgba(243, 241, 244, 0.561);
 }
 
+.review{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 .testimonials {
   padding-top: 50px;
   padding-bottom: 50px;
