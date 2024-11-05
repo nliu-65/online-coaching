@@ -38,7 +38,7 @@ function Plans() {
             <Card.Body>
               <Card.Title>4 Weeks</Card.Title>
               <Card.Text style={{ textAlign: "justify" }}>
-                Just getting started? No worries! Try out a 4 week plan to test out the waters for yourself. I offer free consultation, so doesn't hurt to try!
+                Just getting started? No worries! Try out a 4 week plan to test out the waters for yourself. I offer free consultation, so it doesn't hurt to try!
               </Card.Text>
               <h3>$240</h3>
               <h7>($60/week)</h7>
@@ -53,8 +53,8 @@ function Plans() {
               <Card.Text style={{ textAlign: "justify" }}>
                 A 12 week program will help you figure out how your body works and how to constantly improve it. I will implement a refined progressive overloading plan, where we will make changes and progress every week.
               </Card.Text>
-              <h3>$480</h3>
-              <h7>($40/week)</h7>
+              <h3>$600</h3>
+              <h7>($50/week)</h7>
             </Card.Body>
           </Card>
           </Col>
@@ -66,8 +66,8 @@ function Plans() {
               <Card.Text style={{ textAlign: "justify" }}>
                 Are you looking for something long term? A 24 week program will help you fully achieve your goals, and you will learn a lot about your personal strengths. By the end of the training period, you will be able to confidently pursue your goals and hold yourself accountable.
               </Card.Text>
-              <h3>$840</h3>
-              <h7>($35/week)</h7>
+              <h3>$1080</h3>
+              <h7>($45/week)</h7>
             </Card.Body>
           </Card>
           </Col>
