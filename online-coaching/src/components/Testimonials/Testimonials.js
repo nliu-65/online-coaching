@@ -6,6 +6,8 @@ import Card from "react-bootstrap/Card";
 import mattsuyetani from "../../Assets/mattsuyetani.jpg";
 import mattvu from "../../Assets/mattvu.jpg";
 import joshlopez from "../../Assets/joshlopez.JPG";
+import jaredura_before from "../../Assets/jaredura_before.jpg";
+import jaredura_after from "../../Assets/jaredura_after.jpg";
 
 function Testimonials() {
   const [width, setWidth] = useState(1200);
@@ -121,6 +123,29 @@ function Testimonials() {
                 {/* <Col md="6">
                   <img src={} alt="about" className="img-fluid" />
                 </Col> */}
+              </Row>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col md="6" className="testimonials-card">
+          <Card className="testimonials-card-view">
+            <Card.Body>
+              <Card.Title>Jared Ura</Card.Title>
+              <Row>
+                <Col md="6" >
+                  <Card.Text className="review" style={{ textAlign: "justify" }}>
+                    "Nate’s programs are effective and efficient, setting me up to improve my bench press PR by 30lbs and squat PR by 50lbs after nearly a year of stagnant progress prior. Nate is also an extremely flexible trainer, as he quickly adjusted for unforeseen setbacks (COVID, minor injuries) in a way that allowed me to keep pushing towards my goals. Importantly, Nate helped me realize my own potential at the gym, unlocking both a physical and mental strength that I didn’t know I had. As a previous client stated, Nate really is that dude."
+                  </Card.Text>
+                  <Card.Text className="review" style={{ textAlign: "justify" }}>
+                    - January 31, 2025
+                  </Card.Text>
+                </Col>
+                <Col md="3">
+                  <img src={jaredura_before} alt="about" className="img-fluid" />
+                </Col>
+                <Col md="3">
+                  <img src={jaredura_after} alt="about" className="img-fluid" />
+                </Col>
               </Row>
             </Card.Body>
           </Card>
