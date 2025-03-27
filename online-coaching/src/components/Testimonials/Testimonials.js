@@ -6,8 +6,8 @@ import Card from "react-bootstrap/Card";
 import mattsuyetani from "../../Assets/mattsuyetani.jpg";
 import mattvu from "../../Assets/mattvu.jpg";
 import joshlopez from "../../Assets/joshlopez.JPG";
-import jaredura_before from "../../Assets/jaredura_before.jpg";
-import jaredura_after from "../../Assets/jaredura_after.jpg";
+import jaredura_before from "../../Assets/jaredura_before.png";
+import jaredura_after from "../../Assets/jaredura_after.png";
 
 function Testimonials() {
   const [width, setWidth] = useState(1200);
